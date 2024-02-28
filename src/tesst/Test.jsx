@@ -1,5 +1,5 @@
 const Test = () => {
-  return <div>Binhf ngu vai lon nhuwng ma dep trai nha</div>;
+  return <div>Binhf ngu vai lon </div>;
 };
 
 export default Test;
