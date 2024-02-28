@@ -1,5 +1,5 @@
 const Test = () => {
-  return <div></div>;
+  return <div>Binhf ngu</div>;
 };
 
 export default Test;
